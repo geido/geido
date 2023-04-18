@@ -10,14 +10,14 @@
 
 ##### TECHY BIO
 
-- 🏢 I'm a proud committer of the [Apache Superset](https://github.com/apache/superset) project
-- ⚙️ I use daily: `.js`, `.html`, `.css`, with a passion for `React.js` and `Node.js`
-- ⚙️ I've been coding for the last 13 years and counting 👨‍💻
+- 🏢 I'm a proud PMC member of the [Apache Superset](https://github.com/apache/superset) project
+- ⚙️ I use daily: `.py`, `.js`, `.html`, `.css`, with a passion for `React.js` and `Node.js`
+- ⚙️ I've been coding for the last 15 years and counting 👨‍💻
 
 
 ##### GET IN TOUCH
 
 - 💬 Ping me about **development**, **UX**, **design**, **pasta** 🍝 and **pizza** 🍕
-- 📫 Reach me: [twitter.com/geido](https://twitter.com/geido) OR thisisgeido@gmail.com
+- 📫 Reach me: [twitter.com/geido](https://twitter.com/geido) OR diegopucci.me@gmail.com
 
 🌱 Living the **Open Source** dream
