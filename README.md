@@ -18,6 +18,6 @@
 ##### GET IN TOUCH
 
 - 💬 Ping me about **development**, **UX**, **design**, **pasta** 🍝 and **pizza** 🍕
-- 📫 Reach me: [twitter.com/geido](https://twitter.com/geido) OR diegopucci.me@gmail.com
+- 📫 Get in touch: [twitter.com/geido](https://twitter.com/geido) OR diegopucci.me@gmail.com
 
 🌱 Living the **Open Source** dream
