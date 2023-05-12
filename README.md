@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm Diego, a Full-Stack Developer
+#### I'm Diego, a Senior Software Developer
 
 ##### BIO
 
