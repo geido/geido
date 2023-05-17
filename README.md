@@ -11,7 +11,8 @@
 ##### TECHY BIO
 
 - 🏢 I'm a proud PMC member of the [Apache Superset](https://github.com/apache/superset) project
-- ⚙️ I use daily: `.py`, `.js`, `.html`, `.css`, with a passion for `React.js` and `Node.js`
+- 🤖 Currently leading AI innovation in [Preset.io](https://preset.io/)
+- ⌨️ I use daily: `.py`, `.js`, `.html`, `.css`, with a passion for `React.js` and `Node.js`
 - ⚙️ I've been coding for the last 15 years and counting 👨‍💻
 
 
